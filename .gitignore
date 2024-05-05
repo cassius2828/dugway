@@ -11,3 +11,6 @@ coverage
 .sass-cache
 
 .ruby-version
+.dugway.json
+
+.env
